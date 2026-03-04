@@ -1,4 +1,4 @@
-🌍 SpaceHACK 2025 – Satellite-Driven Urban Agriculture Mapping
+##🌍 SpaceHACK 2025 – Satellite-Driven Urban Agriculture Mapping
 
 Track: Food Insecurity
 Team #7
